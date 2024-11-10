@@ -2,9 +2,9 @@
 
 **1. To run specific test files individually, use the following commands:**
    ```
-   1. npx wdio wdio.conf.js --spec ./test/specs/problemone.js
-   2. npx wdio wdio.conf.js --spec ./test/specs/problemtwo.js
-   3. npx wdio wdio.conf.js --spec ./test/specs/problemthree.js
+   1. npx wdio wdio.conf.js --spec ./test/specs/test-1.js
+   2. npx wdio wdio.conf.js --spec ./test/specs/test-2.js
+   3. npx wdio wdio.conf.js --spec ./test/specs/test-3.js
    ```
 
 ## Running All Tests Sequentially
